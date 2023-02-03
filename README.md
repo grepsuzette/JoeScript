@@ -13,4 +13,4 @@ There are more tests and it can read 2 **environment variables**:
 * `TEST`: what test to run
 * `TRACE`: what traces to enable
 
-Please refer to https://github.com/grepsuzette/joeson/docs for more information.
+Please refer to https://github.com/grepsuzette/joeson/blob/master/docs/testing.md for more information.
